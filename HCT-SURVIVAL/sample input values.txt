@@ -1,0 +1,186 @@
+  "dri_score": "Intermediate",
+  "psych_disturb": "No",
+  "cyto_score": "Intermediate",
+  "diabetes": "No",
+  "hla_match_c_high": 2.0,
+  "hla_high_res_8": 8.0,
+  "tbi_status": "TBI +- Other, >cGy",
+  "arrhythmia": "No",
+  "hla_low_res_6": 6.0,
+  "graft_type": "Peripheral blood",
+  "vent_hist": "No",
+  "renal_issue": "No",
+  "pulm_severe": "No",
+  "prim_disease_hct": "AML",
+  "hla_high_res_6": 6.0,
+  "cmv_status": "+/+",
+  "hla_high_res_10": 10.0,
+  "hla_match_dqb1_high": 2.0,
+  "tce_imm_match": "P/P",
+  "hla_nmdp_6": 6.0,
+  "hla_match_c_low": 2.0,
+  "rituximab": "No",
+  "hla_match_drb1_low": 2.0,
+  "hla_match_dqb1_low": 2.0,
+  "prod_type": "PB",
+  "cyto_score_detail": "Intermediate",
+  "conditioning_intensity": "MAC",
+  "ethnicity": "Not Hispanic or Latino",
+  "year_hct": 2008,
+  "obesity": "No",
+  "mrd_hct": "Positive",
+  "in_vivo_tcd": "No",
+  "tce_match": "Permissive",
+  "hla_match_a_high": 2.0,
+  "hepatic_severe": "No",
+  "donor_age": 72.29,
+  "prior_tumor": "No",
+  "hla_match_b_low": 2.0,
+  "peptic_ulcer": "No",
+  "age_at_hct": 43.705,
+  "hla_match_a_low": 2.0,
+  "gvhd_proph": "Other GVHD Prophylaxis",
+  "rheum_issue": "No",
+  "sex_match": "F-F",
+  "hla_match_b_high": 2.0,
+  "race_group": "Asian",
+  "comorbidity_score": 3.0,
+  "karnofsky_score": 90.0,
+  "hepatic_mild": "No",
+  "tce_div_match": "Permissive mismatched",
+  "donor_related": "Related",
+  "melphalan_dose": "N/A, Mel not given",
+  "hla_low_res_8": 8.0,
+  "cardiac": "No",
+  "hla_match_drb1_high": 2.0,
+  "pulm_moderate": "Yes",
+  "hla_low_res_10": 10.0,
+  "efs_time": 4.672
+
+
+1. Low Risk (Good Prognosis - Green)
+
+age_at_hct: 30
+
+dri_score: Low
+
+psych_disturb: No
+
+cyto_score: Low
+
+hla_match_c_high: 8.00
+
+hla_match_drb1_high: 2.00
+
+cmv_status: +/+
+
+graft_type: Peripheral blood
+
+prior_tumor: No
+
+obesity: No
+
+karnofsky_score: 100
+
+comorbidity_score: 0
+
+sex_match: M-M
+
+
+
+
+2. Moderate Risk (Yellow/Orange)
+
+age_at_hct: 50
+
+dri_score: Intermediate
+
+psych_disturb: Yes
+
+cyto_score: Intermediate
+
+hla_match_c_high: 6.00
+
+hla_match_drb1_high: 3.00
+
+cmv_status: +/-
+
+graft_type: Bone marrow
+
+prior_tumor: Yes (past solid tumor)
+
+obesity: Yes
+
+karnofsky_score: 80
+
+comorbidity_score: 2
+
+sex_match: F-F
+
+
+3. High Risk (Red - Poor Prognosis)
+
+age_at_hct: 65
+
+dri_score: High
+
+psych_disturb: Yes
+
+cyto_score: High
+
+hla_match_c_high: 3.00
+
+hla_match_drb1_high: 4.00
+
+cmv_status: Negative
+
+graft_type: Bone marrow
+
+prior_tumor: Yes (acute leukemia)
+
+obesity: Yes
+
+karnofsky_score: 60
+
+comorbidity_score: 5
+
+sex_match: F-M
+
+
+4. Very High Risk (Critical - Red)
+
+age_at_hct: 70
+
+dri_score: High
+
+psych_disturb: Yes
+
+cyto_score: High
+
+hla_match_c_high: 2.00
+
+hla_match_drb1_high: 5.00
+
+cmv_status: Negative
+
+graft_type: Bone marrow
+
+prior_tumor: Yes (solid tumor)
+
+obesity: Yes
+
+karnofsky_score: 50
+
+comorbidity_score: 8
+
+sex_match: F-M
+
+
+
+
+
+
+
+
+
+
